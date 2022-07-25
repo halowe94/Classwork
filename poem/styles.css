@@ -13,5 +13,7 @@ h1 {
 
 p {
     line-height: 50px;
-    margin-bottom: 15%;
+    margin-bottom: 1px;
+    margin-left: 10%;
+    text-indent: -50px;
 }
